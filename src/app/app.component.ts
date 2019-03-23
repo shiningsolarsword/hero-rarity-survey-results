@@ -6002,9 +6002,6 @@ export class Odin { }
 	<a href="https://feheroes.gamepedia.com/Niles:_Cruel_to_Be_Kind" title="Niles: Cruel to Be Kind"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>97.8%</b></span>
-<span style="display:block; text-align:center"><b>69.5%</b></span>
-<span style="display:block; text-align:center"><b>7.7%</b></span>
-<span style="display:block; text-align:center"><b>0.8%</b></span>
 </span>`
 })
 export class Niles { }
@@ -6023,9 +6020,6 @@ export class Niles { }
 	<a href="https://feheroes.gamepedia.com/Niles:_Forbidden_Tease" title="Niles: Forbidden Tease"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>20.6%</b></span>
-<span style="display:block; text-align:center"><b>18.8%</b></span>
-<span style="display:block; text-align:center"><b>18.6%</b></span>
-<span style="display:block; text-align:center"><b>0.1%</b></span>
 </span>`
 })
 export class NilesHalloween { }
@@ -6044,9 +6038,6 @@ export class NilesHalloween { }
 	<a href="https://feheroes.gamepedia.com/Elise:_Budding_Flower" title="Elise: Budding Flower"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>50.5%</b></span>
-<span style="display:block; text-align:center"><b>47.3%</b></span>
-<span style="display:block; text-align:center"><b>45.5%</b></span>
-<span style="display:block; text-align:center"><b>0.0%</b></span>
 </span>`
 })
 export class Elise { }
@@ -6065,9 +6056,6 @@ export class Elise { }
 	<a href="https://feheroes.gamepedia.com/Elise:_Tropical_Flower" title="Elise: Tropical Flower"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>27.9%</b></span>
-<span style="display:block; text-align:center"><b>26.5%</b></span>
-<span style="display:block; text-align:center"><b>26.2%</b></span>
-<span style="display:block; text-align:center"><b>0.0%</b></span>
 </span>`
 })
 export class EliseSummer { }
@@ -6086,9 +6074,6 @@ export class EliseSummer { }
 	<a href="https://feheroes.gamepedia.com/Elise:_Bubbling_Flower" title="Elise: Bubbling Flower"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>9.0%</b></span>
-<span style="display:block; text-align:center"><b>8.1%</b></span>
-<span style="display:block; text-align:center"><b>7.9%</b></span>
-<span style="display:block; text-align:center"><b>0.0%</b></span>
 </span>`
 })
 export class EliseHotSprings { }
@@ -6107,9 +6092,6 @@ export class EliseHotSprings { }
 	<a href="https://feheroes.gamepedia.com/Arthur:_Hapless_Hero" title="Arthur: Hapless Hero"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>97.4%</b></span>
-<span style="display:block; text-align:center"><b>68.2%</b></span>
-<span style="display:block; text-align:center"><b>3.3%</b></span>
-<span style="display:block; text-align:center"><b>0.2%</b></span>
 </span>`
 })
 export class Arthur { }
@@ -6128,9 +6110,6 @@ export class Arthur { }
 	<a href="https://feheroes.gamepedia.com/Effie:_Army_of_One" title="Effie: Army of One"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>98.3%</b></span>
-<span style="display:block; text-align:center"><b>90.5%</b></span>
-<span style="display:block; text-align:center"><b>51.3%</b></span>
-<span style="display:block; text-align:center"><b>6.7%</b></span>
 </span>`
 })
 export class Effie { }
@@ -6149,9 +6128,6 @@ export class Effie { }
 	<a href="https://feheroes.gamepedia.com/Silas:_Loyal_Knight" title="Silas: Loyal Knight"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>89.8%</b></span>
-<span style="display:block; text-align:center"><b>71.4%</b></span>
-<span style="display:block; text-align:center"><b>21.4%</b></span>
-<span style="display:block; text-align:center"><b>0.2%</b></span>
 </span>`
 })
 export class Silas { }
@@ -6170,9 +6146,6 @@ export class Silas { }
 	<a href="https://feheroes.gamepedia.com/Charlotte:_Money_Maiden" title="Charlotte: Money Maiden"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>24.2%</b></span>
-<span style="display:block; text-align:center"><b>22.3%</b></span>
-<span style="display:block; text-align:center"><b>22.0%</b></span>
-<span style="display:block; text-align:center"><b>0.1%</b></span>
 </span>`
 })
 export class CharlotteBridal { }
@@ -6191,9 +6164,6 @@ export class CharlotteBridal { }
 	<a href="https://feheroes.gamepedia.com/Flora:_Cold_as_Ice" title="Flora: Cold as Ice"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>38.5%</b></span>
-<span style="display:block; text-align:center"><b>35.7%</b></span>
-<span style="display:block; text-align:center"><b>33.9%</b></span>
-<span style="display:block; text-align:center"><b>0.0%</b></span>
 </span>`
 })
 export class Flora { }
@@ -6212,9 +6182,6 @@ export class Flora { }
 	<a href="https://feheroes.gamepedia.com/Keaton:_Lupine_Collector" title="Keaton: Lupine Collector"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>20.3%</b></span>
-<span style="display:block; text-align:center"><b>19.1%</b></span>
-<span style="display:block; text-align:center"><b>18.7%</b></span>
-<span style="display:block; text-align:center"><b>0.1%</b></span>
 </span>`
 })
 export class Keaton { }
@@ -6233,9 +6200,6 @@ export class Keaton { }
 	<a href="https://feheroes.gamepedia.com/Kana:_Dragon_Spawn" title="Kana: Dragon Spawn"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>91.9%</b></span>
-<span style="display:block; text-align:center"><b>83.8%</b></span>
-<span style="display:block; text-align:center"><b>28.7%</b></span>
-<span style="display:block; text-align:center"><b>0.3%</b></span>
 </span>`
 })
 export class KanaM { }
@@ -6254,9 +6218,6 @@ export class KanaM { }
 	<a href="https://feheroes.gamepedia.com/Kana:_Dragon_Princess" title="Kana: Dragon Princess"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>45.9%</b></span>
-<span style="display:block; text-align:center"><b>42.8%</b></span>
-<span style="display:block; text-align:center"><b>41.5%</b></span>
-<span style="display:block; text-align:center"><b>0.2%</b></span>
 </span>`
 })
 export class KanaF { }
@@ -6275,9 +6236,6 @@ export class KanaF { }
 	<a href="https://feheroes.gamepedia.com/Shigure:_Dark_Sky_Singer" title="Shigure: Dark Sky Singer"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>40.3%</b></span>
-<span style="display:block; text-align:center"><b>39.0%</b></span>
-<span style="display:block; text-align:center"><b>38.3%</b></span>
-<span style="display:block; text-align:center"><b>0.0%</b></span>
 </span>`
 })
 export class ShigurePerforming { }
@@ -6296,9 +6254,6 @@ export class ShigurePerforming { }
 	<a href="https://feheroes.gamepedia.com/Shigure:_Uplifting_Artist" title="Shigure: Uplifting Artist"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>93.9%</b></span>
-<span style="display:block; text-align:center"><b>82.4%</b></span>
-<span style="display:block; text-align:center"><b>33.3%</b></span>
-<span style="display:block; text-align:center"><b>0.8%</b></span>
 </span>`
 })
 export class Shigure { }
@@ -6317,9 +6272,6 @@ export class Shigure { }
 	<a href="https://feheroes.gamepedia.com/Shiro:_Raw_Talent" title="Shiro: Raw Talent"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>51.2%</b></span>
-<span style="display:block; text-align:center"><b>46.4%</b></span>
-<span style="display:block; text-align:center"><b>45.0%</b></span>
-<span style="display:block; text-align:center"><b>0.2%</b></span>
 </span>`
 })
 export class Shiro { }
@@ -6338,9 +6290,6 @@ export class Shiro { }
 	<a href="https://feheroes.gamepedia.com/Selkie:_Free_Spirit" title="Selkie: Free Spirit"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>19.7%</b></span>
-<span style="display:block; text-align:center"><b>19.3%</b></span>
-<span style="display:block; text-align:center"><b>19.1%</b></span>
-<span style="display:block; text-align:center"><b>0.0%</b></span>
 </span>`
 })
 export class Selkie { }
@@ -6359,9 +6308,6 @@ export class Selkie { }
 	<a href="https://feheroes.gamepedia.com/Rhajat:_Black_Magician" title="Rhajat: Black Magician"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>41.7%</b></span>
-<span style="display:block; text-align:center"><b>36.6%</b></span>
-<span style="display:block; text-align:center"><b>36.0%</b></span>
-<span style="display:block; text-align:center"><b>0.0%</b></span>
 </span>`
 })
 export class Rhajat { }
@@ -6380,9 +6326,6 @@ export class Rhajat { }
 	<a href="https://feheroes.gamepedia.com/Siegbert:_Future_King" title="Siegbert: Future King"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>53.7%</b></span>
-<span style="display:block; text-align:center"><b>48.4%</b></span>
-<span style="display:block; text-align:center"><b>47.6%</b></span>
-<span style="display:block; text-align:center"><b>0.1%</b></span>
 </span>`
 })
 export class Siegbert { }
@@ -6401,9 +6344,6 @@ export class Siegbert { }
 	<a href="https://feheroes.gamepedia.com/Velouria:_Wolf_Cub" title="Velouria: Wolf Cub"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>20.1%</b></span>
-<span style="display:block; text-align:center"><b>20.0%</b></span>
-<span style="display:block; text-align:center"><b>19.8%</b></span>
-<span style="display:block; text-align:center"><b>0.1%</b></span>
 </span>`
 })
 export class Velouria { }
@@ -6422,9 +6362,6 @@ export class Velouria { }
 	<a href="https://feheroes.gamepedia.com/Ophelia:_Dramatic_Heroine" title="Ophelia: Dramatic Heroine"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>53.0%</b></span>
-<span style="display:block; text-align:center"><b>50.8%</b></span>
-<span style="display:block; text-align:center"><b>50.3%</b></span>
-<span style="display:block; text-align:center"><b>0.5%</b></span>
 </span>`
 })
 export class Ophelia { }
@@ -6443,9 +6380,6 @@ export class Ophelia { }
 	<a href="https://feheroes.gamepedia.com/Soleil:_Adorable_Adorer" title="Soleil: Adorable Adorer"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>97.3%</b></span>
-<span style="display:block; text-align:center"><b>91.0%</b></span>
-<span style="display:block; text-align:center"><b>52.5%</b></span>
-<span style="display:block; text-align:center"><b>4.6%</b></span>
 </span>`
 })
 export class Soleil { }
@@ -6464,9 +6398,6 @@ export class Soleil { }
 	<a href="https://feheroes.gamepedia.com/Nina:_Eye_Spy" title="Nina: Eye Spy"><img alt="" width="87" height="87" srcset="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f797vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$ 1.5x, https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fhx2fhhx2fVgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$ 2x" x-enc="srcset src" src="https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3lknkx78uky.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2flknkx78uky_mgskvkjog_ktx2fznashx2fhx2fhhx2fVgtk_Skta.vtmx2f43vd-Vgtk_Skta.vtmx3fbkx78youtx3d37j42503hl8h6g0l143028h55i52kl7gx26o76i.sgx78qx3dosgmk_$/$/$/$/$/$/$">
 	</a>
 <span style="display:block; text-align:center"><b>26.1%</b></span>
-<span style="display:block; text-align:center"><b>24.5%</b></span>
-<span style="display:block; text-align:center"><b>23.7%</b></span>
-<span style="display:block; text-align:center"><b>0.1%</b></span>
 </span>`
 })
 export class Nina { }
