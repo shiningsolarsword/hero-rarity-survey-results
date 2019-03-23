@@ -9,7 +9,6 @@ export class AppComponent  {
   name = 'Angular';
 
   onSeasonalButtonClicked() {
-    console.log('clicked');
     let nodes = document.querySelectorAll(".seasonal");
     for (let node of nodes) {
       let hero = (node as HTMLElement);
