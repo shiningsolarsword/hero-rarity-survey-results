@@ -75,7 +75,7 @@ export class AppComponent  {
       if (hero.style.display != 'none') {
         hero.style.display = 'none';
       } else {
-        hero.style.display = 'lockial';
+        hero.style.display = 'inline-block';
       }
     };
   }
@@ -87,7 +87,7 @@ export class AppComponent  {
       if (hero.style.display != 'none') {
         hero.style.display = 'none';
       } else {
-        hero.style.display = 'initial';
+        hero.style.display = 'inline-block';
       }
     };
   }
