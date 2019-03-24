@@ -8,6 +8,18 @@ import { Component } from '@angular/core';
 export class AppComponent  {
   name = 'Angular';
 
+  onAskrButtonClicked() {
+    let nodes = document.querySelectorAll(".askr");
+    for (let node of nodes) {
+      let hero = (node as HTMLElement);
+      if (hero.style.display != 'none') {
+        hero.style.display = 'none';
+      } else {
+        hero.style.display = 'initial';
+      }
+    };
+  }
+
   onSeasonalButtonClicked() {
     let nodes = document.querySelectorAll(".seasonal");
     for (let node of nodes) {
@@ -15,9 +27,68 @@ export class AppComponent  {
       if (hero.style.display != 'none') {
         hero.style.display = 'none';
       } else {
-        hero
+        hero.style.display = 'initial';
       }
-      
+    };
+  }
+
+  onGrailButtonClicked() {
+    let nodes = document.querySelectorAll(".grail");
+    for (let node of nodes) {
+      let hero = (node as HTMLElement);
+      if (hero.style.display != 'none') {
+        hero.style.display = 'none';
+      } else {
+        hero.style.display = 'initial';
+      }
+    };
+  }
+
+  onLegendaryButtonClicked() {
+    let nodes = document.querySelectorAll(".legendary");
+    for (let node of nodes) {
+      let hero = (node as HTMLElement);
+      if (hero.style.display != 'none') {
+        hero.style.display = 'none';
+      } else {
+        hero.style.display = 'initial';
+      }
+    };
+  }
+
+  onGoldButtonClicked() {
+    let nodes = document.querySelectorAll(".gold");
+    for (let node of nodes) {
+      let hero = (node as HTMLElement);
+      if (hero.style.display != 'none') {
+        hero.style.display = 'none';
+      } else {
+        hero.style.display = 'initial';
+      }
+    };
+  }
+
+  onSilverButtonClicked() {
+    let nodes = document.querySelectorAll(".silver");
+    for (let node of nodes) {
+      let hero = (node as HTMLElement);
+      if (hero.style.display != 'none') {
+        hero.style.display = 'none';
+      } else {
+        hero.style.display = 'initial';
+      }
+    };
+  }
+
+  onBronzeButtonClicked() {
+    let nodes = document.querySelectorAll(".bronze");
+    for (let node of nodes) {
+      let hero = (node as HTMLElement);
+      if (hero.style.display != 'none') {
+        hero.style.display = 'none';
+      } else {
+        hero.style.display = 'initial';
+      }
     };
   }
 }
