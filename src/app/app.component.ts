@@ -123,7 +123,7 @@ export class AppComponent  {
   }
 
   onBronzeButtonClicked() {
-    let buttonNode = document.querySelector(".bronzToggleButton");
+    let buttonNode = document.querySelector(".bronzeToggleButton");
     let buttonElement = (buttonNode as HTMLElement);
     if (buttonElement.style.backgroundColor != 'grey') {
       buttonElement.style.backgroundColor = 'grey';
